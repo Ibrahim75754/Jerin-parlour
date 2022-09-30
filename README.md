@@ -8,7 +8,7 @@ It is a single page application made with ReactJS, Tailwind CSS etc...
 
 ### `②   Users also view their orders on the Dashboard page.` 
 ### `③  Easy to use & simple user interface`
-### `③  admin: abc@gmail.com password: 123456`
+### `③  username: abc@gmail.com password: 123456`
 
 ## Technologies
 
